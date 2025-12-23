@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on API Security
 - 🌱 I’m currently learning GitHub Foundation Gh-900
-- ⚡ Fun fact: On average, I shot a score of -6 per golf round.  I usually lose half a dozen golf balls per round.
-- 
+- ⚡ Fun fact: On average, I scored -6 per golf round.  I usually lose half a dozen golf balls per round. 😁
+  
 <!--
 **ekool2000-att/ekool2000-att** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
